@@ -64,11 +64,5 @@ streamlit run app.py
 
 [Whatsapp chat sentiment analyzer](https://www.youtube.com/watch?v=XCLCOA9BXVA)
  
-## Author
 
-- [Udhay Brahmi](https://github.com/Udhay-Brahmi)
-
-## Support
-
-For support, email udhaybrahmi786@gmail.com or udhaybrahmi@gmail.com.
 
